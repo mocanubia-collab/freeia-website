@@ -1,0 +1,32 @@
+[
+  {
+    "id": "lumanare-01",
+    "name": "Lumânare artizanală",
+    "category": "Lumânări",
+    "description": "Un moment de lumină și liniște. Personalizează acest produs cu aroma, gramajul și fotografia ta.",
+    "price": null,
+    "image": "assets/freeia-hero.webp",
+    "available": false,
+    "smart": false
+  },
+  {
+    "id": "smart-01",
+    "name": "SMART Candle",
+    "category": "SMART Candle",
+    "description": "Lumânare cu experiență digitală accesibilă prin cod QR. Detaliile se pot personaliza.",
+    "price": null,
+    "image": "assets/freeia-hero.webp",
+    "available": false,
+    "smart": true
+  },
+  {
+    "id": "wax-01",
+    "name": "Wax melts",
+    "category": "Wax melts",
+    "description": "Parfum pentru spațiul tău. Adaugă ulterior varianta, gramajul și imaginea produsului.",
+    "price": null,
+    "image": "assets/freeia-hero.webp",
+    "available": false,
+    "smart": false
+  }
+]
